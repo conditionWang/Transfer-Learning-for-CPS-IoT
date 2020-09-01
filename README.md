@@ -52,7 +52,7 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Class-Incremental Domain Adaptation, ECCV 2020 oral](https://arxiv.org/abs/2008.01389)
 
 
-## Multiple Domain Adaptation
+## Multiple Source/Target Domain Adaptation
 [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation, NeurIPS 2018](https://arxiv.org/abs/1809.01361)
 
 [Domain Adaptation from Multiple Sources via Auxiliary Classifiers, ICML 2009](https://icml.cc/Conferences/2009/papers/445.pdf)
@@ -64,6 +64,12 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Adversarial Multiple Source Domain Adaptation, NeurIPS 2018](https://papers.nips.cc/paper/8075-adversarial-multiple-source-domain-adaptation)
 
 [Cross-domain Face Presentation Attack Detection via Multi-domain Disentangled Representation Learning, CVPR 2020](https://arxiv.org/abs/2004.01959)
+
+[Domain agnostic learning with disentan- gled representations, ICML 2019](https://arxiv.org/abs/1904.12347)
+
+[Deep cocktail network: Multi-source unsupervised domain adaptation with category shift, CVPR 2018](https://arxiv.org/abs/1803.00830)
+
+[Moment matching for multi-source domain adaptation, ICCV 2019](https://arxiv.org/abs/1812.01754)
 
 
 ## Cross-Task Adaptation
@@ -99,6 +105,14 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Federated Adversarial Domain Adaptation, ICLR 2020](https://arxiv.org/abs/1911.02054)
 
 [Backdoor attacks and defenses in feature-partitioned collaborative learning, ICML 2020 Workshop](https://arxiv.org/abs/2007.03608)
+
+[Secure Federated Transfer Learning, Transaction Paper (First Work from Qiang Yang)](https://arxiv.org/abs/1812.03337)
+
+[Privacy-preserving Heterogeneous Federated Transfer Learning, Big Data 2019](https://ieeexplore.ieee.org/abstract/document/9005992)
+
+[Secure and Efficient Federated Transfer Learning, Big Data 2019](https://ieeexplore.ieee.org/abstract/document/9006280)
+
+[FedMD: Heterogenous Federated Learning via Model Distillation, NeurIPS 2019 Workshop](https://arxiv.org/abs/1910.03581)
 
 
 
