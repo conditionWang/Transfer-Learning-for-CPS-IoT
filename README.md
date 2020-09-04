@@ -1,6 +1,6 @@
 # Transfer-Learning-for-CPS-IoT
 
-This is a summary of recent researches about how to apply Transfer Learning to the fields of Cyber-Physical Systems (CPS) and Internet of Things (IoT). Last Update: Sept. 01, 2020.
+This is a summary of recent researches about how to apply Transfer Learning to the fields of Cyber-Physical Systems (CPS) and Internet of Things (IoT). Last Update: Sept. 04, 2020.
 
 
 ## Close-Set Domain Adaptation
@@ -11,6 +11,8 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Knowledge Transfer with Jacobian Matching, ICML 2018](https://arxiv.org/abs/1803.00443)
 
 [Transferable attention for domain adaptation, AAAI 2019](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)
+
+[Learning What and Where to Transfer, ICML 2019](https://arxiv.org/abs/1905.05901)
 
 
 
@@ -39,6 +41,8 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 
 [A Balanced and Uncertainty-aware Approach for Partial Domain Adaptation⋆, ECCV 2020](https://arxiv.org/abs/2003.02541)
 
+[Discriminative Partial Domain Adversarial Network, ECCV 2020](https://arxiv.org/abs/1911.12036)
+
 [Dual Alignment for Partial Domain Adaptation, Transaction Paper 2020](https://ieeexplore.ieee.org/document/9082097)
 
 [Class Conditional Alignment for Partial Domain Adaptation, Arxiv 2020](https://arxiv.org/abs/2003.06722)
@@ -50,6 +54,8 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Minimum Class Confusion for Versatile Domain Adaptation, ECCV 2020](https://arxiv.org/abs/1912.03699)
 
 [Class-Incremental Domain Adaptation, ECCV 2020 oral](https://arxiv.org/abs/2008.01389)
+
+[Discriminative Adversarial Domain Adaptation, AAAI 2020](https://arxiv.org/abs/1911.12036)
 
 
 ## Multiple Source/Target Domain Adaptation
@@ -126,3 +132,5 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Few Shot Network Compression via Cross Distillation, AAAI 2020](https://arxiv.org/abs/1911.09450)
 
 [Private Model Compression via Knowledge Distillation, AAAI 2019](https://arxiv.org/abs/1811.05072)
+
+[Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation, ICCV 2019](https://arxiv.org/abs/1910.05562)
