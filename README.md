@@ -1,7 +1,10 @@
 # Transfer-Learning-for-CPS-IoT
 
-This is a summary of recent researches about how to apply Transfer Learning to the fields of Cyber-Physical Systems (CPS) and Internet of Things (IoT). Last Update: Sept. 04, 2020.
+This is a summary of recent researches about how to apply Transfer Learning to the fields of Cyber-Physical Systems (CPS) and Internet of Things (IoT). Last Update: Oct. 30, 2020.
 
+
+
+# Category of TL
 
 ## Close-Set Domain Adaptation
 [Deep Domain Confusion: Maximizing for Domain Invariance, Arxiv 2014](https://arxiv.org/abs/1412.3474)
@@ -13,7 +16,6 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Transferable attention for domain adaptation, AAAI 2019](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)
 
 [Learning What and Where to Transfer, ICML 2019](https://arxiv.org/abs/1905.05901)
-
 
 
 ## Open-Set Domain Adaptation
@@ -77,11 +79,14 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 
 [Moment matching for multi-source domain adaptation, ICCV 2019](https://arxiv.org/abs/1812.01754)
 
+[Boosting Domain Adaptation by Discovering Latent Domains, CVPR 2018](https://arxiv.org/abs/1805.01386)
+
 
 ## Cross-Task Adaptation
 [UM-Adapt: Unsupervised Multi-Task Adaptation Using Adversarial Cross-Task Distillation, ICCV 2019](https://arxiv.org/abs/1908.03884)
 
 [Distilling Cross-Task Knowledge via Relationship Matching, CVPR 2020 oral](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf)
+
 
 
 ## Domain Adaptation and Knowledge Distillation
@@ -106,7 +111,6 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Programmable Neural Network Trojan for Pre-Trained Feature Extractor, Arxiv 2019](https://arxiv.org/abs/1901.07766)
 
 
-
 ## Federated Transfer Learning
 [Federated Adversarial Domain Adaptation, ICLR 2020](https://arxiv.org/abs/1911.02054)
 
@@ -120,6 +124,7 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 
 [FedMD: Heterogenous Federated Learning via Model Distillation, NeurIPS 2019 Workshop](https://arxiv.org/abs/1910.03581)
 
+[Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation, ICML 2020](https://arxiv.org/abs/2002.08546)
 
 
 ## Model Lightweight and Compression
@@ -134,3 +139,30 @@ This is a summary of recent researches about how to apply Transfer Learning to t
 [Private Model Compression via Knowledge Distillation, AAAI 2019](https://arxiv.org/abs/1811.05072)
 
 [Drop to Adapt: Learning Discriminative Features for Unsupervised Domain Adaptation, ICCV 2019](https://arxiv.org/abs/1910.05562)
+
+
+
+# Methodology 
+
+## New Loss for Consistency between Domains
+[Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss, CVPR 2019](https://arxiv.org/abs/1903.03215)
+
+[A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation, NeurIPS 2018](https://arxiv.org/abs/1809.01361)
+
+
+## GAN-based
+[From source to target and back: Symmetric Bi-Directional Adaptive GAN, CVPR 2018](https://arxiv.org/abs/1705.08824)
+
+[Detach and Adapt: Learning Cross-Domain Disentangled Deep Representation, CVPR 2018](https://arxiv.org/abs/1705.01314)
+
+[Generative Pseudo-label Refinement for Unsupervised Domain Adaptation, WACV 2020](https://arxiv.org/abs/2001.02950)
+
+[Generate To Adapt: Aligning Domains using Generative Adversarial Networks, CVPR 2018](https://arxiv.org/abs/1704.01705)
+
+[AugGAN: Cross Domain Adaptation with GAN-based Data Augmentation, ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.pdf)
+
+
+## Sample Selection
+[Adversarial open set domain adaptation via progressive selection of transferable target samples, Neurocomputing 2020](https://www.sciencedirect.com/science/article/pii/S0925231220308675)
+
+[A Sample Selection Approach for Universal Domain Adaptation, Arxiv 2020](https://arxiv.org/abs/2001.05071)
